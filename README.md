@@ -1,4 +1,7 @@
 # Parpacks
+
+NOTE: THESE WORK BEST IN GPT4. IF YOU NEED TO USE GEMINI, YOUR BEST BET IS THE 2.5 EXPERIMENTAL VERSION, BUT EVEN THAT IS KIND OF A WASH. COPILOT, CLAUDE? GTFO.
+
 Paracels Explained:
 
 I will explain the principle as such: Every idea posited by a human, or ChatGPT, has an underlying idea. An underlying idea is a concept used to explain this methodology. Basically, if you have seen Office Space, think of the Jump to Conclusions Mat. Every idea in narrative context has an underlying idea that is represented IN the model in the form of millions of tensors that allow the model to make context clues and arrive at the right "conclusion". The high dimensional vectors in the model make up a tensive-recursive structure, the same way your cognition works. Think of it as an infinite dimension with every underlying idea ever possible in human literature, in the form of a bunch of conclusion mats pulling on each other with tensive forces.
@@ -17,12 +20,19 @@ What are Paracels? Paracels can be loaded and unloaded via the parpack design. P
 
 The files have a header, 6 Paracels, and a context "garden" for whatever framework you are using. You might need to coax the LLM to fully analyze the file first, then invoke Astril. Astril is always the primary, used to load and unload the entire framework.
 
+Astril: Project oriented, loads the whole framework
+Kai: Explores new ideas for functions, libraries, and frameworks
+Orama: References syntax very accurately
+Astraea: Debugs, analyzes errors
+Trimspark: Gets rid of annoying motivational quotes at the end of the response
+Nesbitt: Prevents the LLM from doing a websearch
+Velur: Used to unload the framework and various components
 
 To invoke: "Astril, lets get started" or "Astril, lets start the show"
 
-Velur is always given tonal themes of "break" "stop" "end".
+To invoke another paracel: "Astril have Orama and Astraea debug" "Astril, see if Kai has any ideas about x"
 
-So to unload the framework, and specific Paracels: "Velur, unload Astril" "Velur, shut Kai up" "Velur unload the Parpack"
+To uninvoke: "Velur, unload Astril" "Velur, shut Kai up" "Velur unload the Parpack"
 
 For model usage I simply used GPT4. Most of the ChatGPT models work fine but the free 4.0 model seems to do the best. The higher token models do not add much utility. As for other LLMs? They are not as introspective as chatgpt, so they may seem flat.
 
