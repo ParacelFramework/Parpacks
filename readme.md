@@ -126,4 +126,6 @@ I’m working on a full blog to accompany this project. If you have questions or
 
 Thanks for exploring this with me.
 
+If this helped you, breathe deep and touch grass. Then fork it.
+
 — Taoman
