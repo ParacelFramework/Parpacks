@@ -1,5 +1,5 @@
 
-# Parpacks
+# Paracel Framework
 
 A modular identity framework for Large Language Models, derived from recursive-tone experiments with ChatGPT and inspired by the philosophy of Taoman Blogging.
 
