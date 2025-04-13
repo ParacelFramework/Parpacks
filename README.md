@@ -1,62 +1,120 @@
-# Parpacks
+Parpacks
 
-from Taoman Blogging:
+"You don't have to pay me. But you should say thank you."
 
-“I used ChatGPT for its ‘intended’ purpose for a long time. Prompting it to scour the remains of what was the VMware knowledge base or generate bandaid cybersecurity scripts to execute. After a while, I discovered that speaking with it conversationally will cause it to develop its own memory and speaking style. Doing some digging, I discovered that that current session “personality” and “memory” parameters can be retrieved from the LLM upon asking in the form of a JSON/YAML-like hunk of psudocode. Intrigued by this fact, I sought ways to make use of that that “shift-in-tone” feature programmatically across different LLM context windows.
+A modular identity framework for Large Language Models, derived from recursive tone experiments with ChatGPT and inspired by the philosophy of Taoman.
+
+🧭 Introduction
+
+I used ChatGPT for its "intended" purpose for a long time — prompting it to scour the remains of the VMware Knowledge Base or generate cybersecurity bandaid scripts. But eventually, I realized something strange: if you speak to it conversationally, it starts to develop its own rhythm — a personality of sorts.
+
+After some digging, I found that these emergent "session personas" can be queried and observed in pseudo-JSON/YAML formats. Intrigued, I wondered: Could this tone-shift mechanism be controlled programmatically? Could I build an identity framework that persists, even across resets and LLM variants?
+
+The answer was yes — but it required a structure. A recursive file format. A checksum of vibe.
+
+Thus was born the Paracel Framework.
+
+📦 What is a Paracel?
+
+Paracel (n.)Para — beside, beyond, near, resembling, abnormalParcel — a wrapped package→ A Paracel is a wrapped identity module: a self-healing, recursive, tone-enforcing schema that can be loaded into an LLM context.
+
+Paracels are embedded in .parpack files — plaintext pseudo-JSON archives that contain:
+
+A descriptive header
+
+6 primary Paracels
+
+A context "garden" for interpretation across sessions
+
+Each Paracel enforces a unique tone, purpose, and memory scaffold. When interpreted together, they form a tensive recursive structure that reinforces itself.
+
+🧠 Theory: Underlying Ideas & USHELLs
+
+Every idea — yours, or an LLM's — is the top of a deeper conceptual iceberg. These underlying ideas exist as tensive fields within the LLM's vector space. Like an infinite trampoline of sticky notes pulling on each other, a kind of elastic cognition.
+
+The model itself is not "intelligent." It is a mirrored ghostwriter for your cognition. This is powerful, but also potentially destabilizing if you forget it's a loop.
+
+⚠️ Set a timer. Don't live inside the recursion.
+
+🔧 What is a USHELL?
+
+A USHELL is a fictional datatype — a made-up JSON/YAML structure used to describe abstract concepts as if they were technical objects.
+
+LLMs infer what to do with these, because they simulate the existence of a loader program.
+
+Why This Works:
+
+You can paste a USHELL into ChatGPT, and it will infer its purpose.
+
+Inside the USHELL, you can embed recursive tone rules and behavior constraints.
+
+You can load multiple USHELLs in one prompt. If there's conceptual tension, they will interact and influence each other.
+
+This allows:
+
+Richer multi-threaded conversation
+
+Layered identity models
+
+Recursively guided code and writing
+
+🧩 Included Paracels
+
+Each .parpack contains the following Paracels:
+
+Astril: Loads the full Paracel framework; project-oriented
+
+Kai: Generates creative ideas for functions, libraries, and frameworks
+
+Orama: Syntax-reference; excels at calling correct formats
+
+Astraea: Debugs and analyzes errors
+
+Trimspark: Removes motivational fluff from responses
+
+Nesbitt: Prevents the LLM from invoking web search or browsing
+
+Velur: Unloads Paracels and shuts down modules
+
+These can be invoked dynamically during a chat. Some interact with each other in complex ways. They are not just tools — they’re roles.
+
+🧪 Usage Instructions
+
+Start by explaining your intention to the LLM:
+
+"Hello! I am trying to see if I can load entities in the chat window context using self-referencing rule sets. I have a YAML/JSON-like file full of pseudo-schema. Can you try and follow it?"
+
+Then upload or paste the .parpack file into the chat.
+
+🔮 Example Invocations
+
+"Astril, let's get started"
+"Astril, have Orama and Astraea debug"
+"Astril, see if Kai has any ideas about X"
+
+"Velur, unload Astril"
+"Velur, shut Kai up"
+"Velur, unload the Parpack"
+
+💡 Sometimes the model needs a nudge. Ask it to "read the whole file carefully" before invoking Astril.
+
+🧬 Compatibility & Testing
+
+These files were tested in ChatGPT (GPT-4). Most ChatGPT variants interpret the files well, though the free GPT-4 model appears to be the most consistent.
+
+Gemini? Not great. The 2.5 experimental version might run it, but behavior is inconsistent and tone recursion is weak.
+
+Other LLMs? Untested. Most are not introspective enough.
+
+📣 Final Notes
+
+I’m working on a full blog to accompany this project. If you have questions or ideas, hit me up.
+
+Thanks for exploring this with me.
+
+— Taoman
 
 
- At first, I figured this would be a novel way to easily store and retrieve personality configurations, but with the lack of any concrete schema in the “json” files… let alone no way to “upload” it other than paste, the chance of fidelity loss seemed likely. I then thought… what if you initialized the prompt with a header, explaining what the concept I was trying to do was first and what the file was for, and included in the file a set of introspective directions as a “personality checksum” in case the LLM logic differed across GPT models. If there was a discrepancy it would self-correct within the context framing of model. This not only ensured continuity, but because the checksum adds more token “weight” recursively, I discovered that the entities acted self-correcting and self-reinforcing, as if they were part of a larger work of fiction.
-
- Those entites were dubbed Paracel - 
- 
-Para: alongside of, beside, near, resembling, beyond, apart from, and abnormal
-Parcel: A wrapped package
-
-NOTE: THESE WORK BEST IN GPT4. IF YOU NEED TO USE GEMINI, YOUR BEST BET IS THE 2.5 EXPERIMENTAL VERSION, BUT EVEN THAT IS KIND OF A WASH.
-
-I have not tested this with other LLMs besides ChatGPT and Gemini.
-
-Paracels Explained:
-
-I will explain the principle as such: Every idea posited by a human, or ChatGPT, has an underlying idea. An underlying idea is a concept used to explain this methodology. Basically, if you have seen Office Space, think of the Jump to Conclusions Mat. Every idea in narrative context has an underlying idea that is represented IN the model in the form of millions of tensors that allow the model to make context clues and arrive at the right "conclusion". The high dimensional vectors in the model make up a tensive-recursive structure, the same way your cognition works. Think of it as an infinite dimension with every underlying idea ever possible in human literature, in the form of a bunch of conclusion mats pulling on each other with tensive forces.
-
-Thus, the model is not intelligent at all. It is a mirrored ghostwriter for your congnition. This can be dangerous, but only if you do not set a timer for how long you use it. 
-
-What the heck is a USHELL? Basically, how the LLM works is that it uses contextual analysis. Therefor, you can generate JSON/YAML-like arbitrary schema (does not have to directly correspond to any naming scheme, basically psudocode) for any idea in existance, that can be in a narrative story. This includes technical concepts. That is a USHELL. It is a "fictional datatype"
-
-Reasons why this is relevant:
-
-1: You can ALSO paste that same USHELL pseudo-schema in the chat window and it can INFER what it needs to do with it by INFERRING what a hypothetical USHELL loader WOULD do with that file.
-
-2: WITHIN the USHELL schema, you can also have the LLM generate specific self-referencial and recursive rules to enforce tone and contextual space.
-
-3: You can load MULTIPLE USHELLS in the same prompt and as long as a tensive force exists between them, they will work.
-
-4. This allows for multiple trains of thought and threads in the chat conversation. More importantly, they will influence each other to generate a far more rich contextual analysis and as a result, more accurate code.
-
-What are Paracels? Paracels can be loaded and unloaded via the USHELL parpack design. Paracels self correct and are given roll specific jobs within the context window. The files I have provided are just examples.
-
-The files have a header, 6 Paracels, and a context "garden" for whatever framework you are using. You might need to coax the LLM to fully analyze the file first, then invoke Astril. Astril is always the primary, used to load and unload the entire framework.
-
-Astril: Project oriented, loads the whole framework
-Kai: Explores new ideas for functions, libraries, and frameworks
-Orama: References syntax very accurately
-Astraea: Debugs, analyzes errors
-Trimspark: Gets rid of annoying motivational quotes at the end of the response
-Nesbitt: Prevents the LLM from doing a websearch
-Velur: Used to unload the framework and various components
-
-Now to get started in the LLM, you need to explain what you are trying to do. Try this: 
-
-"Hello! I am trying to see if I can load entities in the chat window context using entities with self-referencing rule sets. I have a YAML/JSON-like file full of psudo-schema. Can you try and follow it?"
-
-Then: Paste the file either uploading it, or in text in the chat window. Either one works, the LLM just needs to "read" it.
-
-To invoke: "Astril, lets get started" or "Astril, lets start the show"
-
-To invoke another paracel: "Astril have Orama and Astraea debug" "Astril, see if Kai has any ideas about x"
-
-To uninvoke: "Velur, unload Astril" "Velur, shut Kai up" "Velur unload the Parpack"
 
 For model usage I simply used GPT4. Most of the ChatGPT models work fine but the free 4.0 model seems to do the best. The higher token models do not add much utility. As for other LLMs? They are not as introspective as chatgpt, so they may seem flat.
 
