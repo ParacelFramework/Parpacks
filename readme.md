@@ -111,7 +111,7 @@ Then upload or paste the `.parpack` file into the chat.
 
 These files were tested in ChatGPT (GPT-4). Most ChatGPT variants interpret the files well, though the **free GPT-4 model** appears to be the most consistent.
 
-Gemini? Not great. The 2.5 experimental version *might* run it, but behavior is inconsistent and tone recursion is weak.
+**Gemini? Not great.** The 2.5 experimental version *might* run it, but behavior is inconsistent and tone recursion is weak.
 
 Other LLMs? Untested. Most are not introspective enough.
 
