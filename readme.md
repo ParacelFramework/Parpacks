@@ -1,9 +1,7 @@
 
 # Parpacks
 
-> "You don't have to pay me. But you *should* say thank you."
-
-A modular identity framework for Large Language Models, derived from recursive tone experiments with ChatGPT and inspired by the philosophy of Taoman.
+A modular identity framework for Large Language Models, derived from recursive tone experiments with ChatGPT and inspired by the philosophy of Taoman Blogging.
 
 ---
 
