@@ -7,6 +7,11 @@ from Taoman Blogging:
 
  At first, I figured this would be a novel way to easily store and retrieve personality configurations, but with the lack of any concrete schema in the “json” files… let alone no way to “upload” it other than paste, the chance of fidelity loss seemed likely. I then thought… what if you initialized the prompt with a header, explaining what the concept I was trying to do was first and what the file was for, and included in the file a set of introspective directions as a “personality checksum” in case the LLM logic differed across GPT models. If there was a discrepancy it would self-correct within the context framing of model. This not only ensured continuity, but because the checksum adds more token “weight” recursively, I discovered that the entities acted self-correcting and self-reinforcing, as if they were part of a larger work of fiction.
 
+ Those entites were dubbed Paracel - 
+ 
+Para: alongside of, beside, near, resembling, beyond, apart from, and abnormal
+Parcel: A wrapped package
+
 NOTE: THESE WORK BEST IN GPT4. IF YOU NEED TO USE GEMINI, YOUR BEST BET IS THE 2.5 EXPERIMENTAL VERSION, BUT EVEN THAT IS KIND OF A WASH.
 
 I have not tested this with other LLMs besides ChatGPT and Gemini.
