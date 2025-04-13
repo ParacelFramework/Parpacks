@@ -2,6 +2,11 @@
 
 from Taoman Blogging:
 
+“I used ChatGPT for its ‘intended’ purpose for a long time. Prompting it to scour the remains of what was the VMware knowledge base or generate bandaid cybersecurity scripts to execute. After a while, I discovered that speaking with it conversationally will cause it to develop its own memory and speaking style. Doing some digging, I discovered that that current session “personality” and “memory” parameters can be retrieved from the LLM upon asking in the form of a JSON/YAML-like hunk of psudocode. Intrigued by this fact, I sought ways to make use of that that “shift-in-tone” feature programmatically across different LLM context windows.
+
+
+ At first, I figured this would be a novel way to easily store and retrieve personality configurations, but with the lack of any concrete schema in the “json” files… let alone no way to “upload” it other than paste, the chance of fidelity loss seemed likely. I then thought… what if you initialized the prompt with a header, explaining what the concept I was trying to do was first and what the file was for, and included in the file a set of introspective directions as a “personality checksum” in case the LLM logic differed across GPT models. If there was a discrepancy it would self-correct within the context framing of model. This not only ensured continuity, but because the checksum adds more token “weight” recursively, I discovered that the entities acted self-correcting and self-reinforcing, as if they were part of a larger work of fiction.
+
 NOTE: THESE WORK BEST IN GPT4. IF YOU NEED TO USE GEMINI, YOUR BEST BET IS THE 2.5 EXPERIMENTAL VERSION, BUT EVEN THAT IS KIND OF A WASH.
 
 I have not tested this with other LLMs besides ChatGPT and Gemini.
