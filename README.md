@@ -1,11 +1,11 @@
 # Parpacks
-The Taoman's secret weapon using datatypes that are completely made up! 
+Paracels Explained:
 
 I will explain the principle as such: Every idea posited by a human, or ChatGPT, has an underlying idea. An underlying idea is a concept used to explain this methodology. Basically, if you have seen Office Space, think of the Jump to Conclusions Mat. Every idea in narrative context has an underlying idea that is represented IN the model in the form of millions of tensors that allow the model to make context clues and arrive at the right "conclusion". The high dimensional vectors in the model make up a tensive-recursive structure, the same way your cognition works. Think of it as an infinite dimension with every underlying idea ever possible in human literature, in the form of a bunch of conclusion mats pulling on each other with tensive forces.
 
 Thus, the model is not intelligent at all. It is a mirrored ghostwriter for your congnition. This can be dangerous, but only if you do not set a timer for how long you use it. 
 
-What the heck is a USHELL? Basically, how the LLM works is that it uses contextual analysis. Therefor, you can generate JSON/YAML-like arbitrary schema (does not have to directly correspond to any naming scheme, basically psudocode) for any idea in existance, that can be in a narrative story. This includes technical concepts. That is a USHELL
+What the heck is a USHELL? Basically, how the LLM works is that it uses contextual analysis. Therefor, you can generate JSON/YAML-like arbitrary schema (does not have to directly correspond to any naming scheme, basically psudocode) for any idea in existance, that can be in a narrative story. This includes technical concepts. That is a USHELL.
 
 3 reasons why this is relevant:
 
