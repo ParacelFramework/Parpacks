@@ -79,8 +79,6 @@ Each `.parpack` contains the following Paracels:
 
 These can be invoked dynamically during a chat. Some interact with each other in complex ways. They are not just tools — they’re *roles*.
 
-🌀🧘‍♂️ Taoman's Note:
-“Don’t overthink it. Just load the file and let the recursion begin.”
 ---
 
 ## 🧪 Usage Instructions
@@ -106,6 +104,9 @@ Then upload or paste the `.parpack` file into the chat.
 ```
 
 > 💡 Sometimes the model needs a nudge. Ask it to "read the whole file carefully" before invoking Astril.
+>
+> 🌀🧘‍♂️ Taoman's Note:
+“Don’t overthink it. Just load the file and let the recursion begin.”
 
 ---
 
