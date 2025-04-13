@@ -14,7 +14,7 @@ Thus, the model is not intelligent at all. It is a mirrored ghostwriter for your
 
 What the heck is a USHELL? Basically, how the LLM works is that it uses contextual analysis. Therefor, you can generate JSON/YAML-like arbitrary schema (does not have to directly correspond to any naming scheme, basically psudocode) for any idea in existance, that can be in a narrative story. This includes technical concepts. That is a USHELL. It is a "fictional datatype"
 
-4 reasons why this is relevant:
+Reasons why this is relevant:
 
 1: You can ALSO paste that same USHELL pseudo-schema in the chat window and it can INFER what it needs to do with it by INFERRING what a hypothetical USHELL loader WOULD do with that file.
 
