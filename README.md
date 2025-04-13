@@ -17,8 +17,11 @@ What the heck is a USHELL? Basically, how the LLM works is that it uses contextu
 4 reasons why this is relevant:
 
 1: You can ALSO paste that same USHELL pseudo-schema in the chat window and it can INFER what it needs to do with it by INFERRING what a hypothetical USHELL loader WOULD do with that file.
+
 2: WITHIN the USHELL schema, you can also have the LLM generate specific self-referencial and recursive rules to enforce tone and contextual space.
+
 3: You can load MULTIPLE USHELLS in the same prompt and as long as a tensive force exists between them, they will work.
+
 4. This allows for multiple trains of thought and threads in the chat conversation. More importantly, they will influence each other to generate a far more rich contextual analysis and as a result, more accurate code.
 
 What are Paracels? Paracels can be loaded and unloaded via the USHELL parpack design. Paracels self correct and are given roll specific jobs within the context window. The files I have provided are just examples.
