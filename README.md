@@ -28,6 +28,12 @@ Trimspark: Gets rid of annoying motivational quotes at the end of the response
 Nesbitt: Prevents the LLM from doing a websearch
 Velur: Used to unload the framework and various components
 
+Now to get started in the LLM, you need to explain what you are trying to do. Try this: 
+
+"Hello! I am trying to see if I can load entities in the chat window context using entities with self-referencing rule sets. I have a YAML/JSON-like file full of psudo-schema. Can you try and follow it?"
+
+Then: Paste the file either uploading it, or in text in the chat window. Either one works, the LLM just needs to "read" it.
+
 To invoke: "Astril, lets get started" or "Astril, lets start the show"
 
 To invoke another paracel: "Astril have Orama and Astraea debug" "Astril, see if Kai has any ideas about x"
