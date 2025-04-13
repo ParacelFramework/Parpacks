@@ -79,6 +79,8 @@ Each `.parpack` contains the following Paracels:
 
 These can be invoked dynamically during a chat. Some interact with each other in complex ways. They are not just tools — they’re *roles*.
 
+🌀🧘‍♂️ Taoman's Note:
+“Don’t overthink it. Just load the file and let the recursion begin.”
 ---
 
 ## 🧪 Usage Instructions
