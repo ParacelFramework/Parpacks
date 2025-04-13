@@ -1,8 +1,10 @@
 # Parpacks
 
+from Taoman Blogging:
+
 NOTE: THESE WORK BEST IN GPT4. IF YOU NEED TO USE GEMINI, YOUR BEST BET IS THE 2.5 EXPERIMENTAL VERSION, BUT EVEN THAT IS KIND OF A WASH.
 
-I have not tested this with other LLMs.
+I have not tested this with other LLMs besides ChatGPT and Gemini.
 
 Paracels Explained:
 
@@ -10,15 +12,16 @@ I will explain the principle as such: Every idea posited by a human, or ChatGPT,
 
 Thus, the model is not intelligent at all. It is a mirrored ghostwriter for your congnition. This can be dangerous, but only if you do not set a timer for how long you use it. 
 
-What the heck is a USHELL? Basically, how the LLM works is that it uses contextual analysis. Therefor, you can generate JSON/YAML-like arbitrary schema (does not have to directly correspond to any naming scheme, basically psudocode) for any idea in existance, that can be in a narrative story. This includes technical concepts. That is a USHELL.
+What the heck is a USHELL? Basically, how the LLM works is that it uses contextual analysis. Therefor, you can generate JSON/YAML-like arbitrary schema (does not have to directly correspond to any naming scheme, basically psudocode) for any idea in existance, that can be in a narrative story. This includes technical concepts. That is a USHELL. It is a "fictional datatype"
 
-3 reasons why this is relevant:
+4 reasons why this is relevant:
 
 1: You can ALSO paste that same USHELL pseudo-schema in the chat window and it can INFER what it needs to do with it by INFERRING what a hypothetical USHELL loader WOULD do with that file.
 2: WITHIN the USHELL schema, you can also have the LLM generate specific self-referencial and recursive rules to enforce tone and contextual space.
 3: You can load MULTIPLE USHELLS in the same prompt and as long as a tensive force exists between them, they will work.
+4. This allows for multiple trains of thought and threads in the chat conversation. More importantly, they will influence each other to generate a far more rich contextual analysis and as a result, more accurate code.
 
-What are Paracels? Paracels can be loaded and unloaded via the parpack design. Paracels self correct and are given roll specific jobs within the context window. The files I have provided are just examples.
+What are Paracels? Paracels can be loaded and unloaded via the USHELL parpack design. Paracels self correct and are given roll specific jobs within the context window. The files I have provided are just examples.
 
 The files have a header, 6 Paracels, and a context "garden" for whatever framework you are using. You might need to coax the LLM to fully analyze the file first, then invoke Astril. Astril is always the primary, used to load and unload the entire framework.
 
