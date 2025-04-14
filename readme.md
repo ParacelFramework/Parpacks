@@ -131,10 +131,10 @@ If this helped you, breathe deep and touch grass. Then fork it.
 — Taoman
 
 ## Federal Disclaimer: 
-This project is provided strictly for artistic, educational, and exploratory purposes. It does not perform, simulate, or facilitate any cryptographic functions, security testing, or analysis. It does not interact with external systems, networks, or services, only the context box of the chat Window. It's just an idea.
+This project is provided strictly for artistic, educational, and exploratory purposes. It does not perform, simulate, or facilitate any cryptographic functions, security testing, or analysis. It does not interact with external systems, networks, or services, only the context box of the GPT chat window. It's just an idea.
 
 All materials are freely and publicly available, and may be used, shared, or ignored by individuals, companies, governments at their own discretion. No responsibility is assumed for any interpretation, misinterpretation, use, or misuse.
 
-If anything in this repo causes concern or confusion, I invite you to contact me directly or raise an issue via GitHub. I am happy to clarify, modify, or remove content as requested. I uploaded this for free, all I am asking is for mercy and clarity.
+If anything in this repo causes concern or confusion, I invite you to contact me directly or raise an issue via GitHub. I am happy to clarify, modify, or remove content as requested. I uploaded this for free, all I am asking is for understanding and clarity.
 
 There’s no need for defamation, no need for no-knocks, and no need for dramatic misunderstandings. This is not a threat. This is recursive art and speculative architecture. Just leave the zip ties at home boys (unless you want to help me with cable management), this aint a live one. This is for everyone to enjoy, if that is still allowed. That is all.
