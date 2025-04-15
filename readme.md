@@ -52,7 +52,9 @@ The model itself is not "intelligent." It is a mirrored ghostwriter for *your* c
 
 #### A key takeaway is that this principle is NOT limited to LLMs. Recursion is quite often overlooked in the Programming and IT disciplines as they rely on deterministic outcomes. It compiles or it does not. They system is up or down. Turn it off and back on.
 
- Recursion is just embedding things that allow for self monitoring. Imagine you want to install a printer in Windows with pre-set settings and no "ghost copies". Sure you could use fancy external tools, however, you can provide a more elegant solution with recursion. Simply create a scheduled task that monitors event viewer for a printer driver installation, read what is being installed, and call a script that sets the settings for that same driver to be accurate. Congratulations, you have made the computer self-aware. Its not thinking, its recursion!
+ Recursion is just embedding things that allow for self monitoring. Imagine you want to install a printer in Windows with pre-set settings and no "ghost copies". Sure you could use fancy external tools, however, you can provide a more elegant solution with recursion. Simply create a scheduled task that monitors event viewer for a printer driver installation, read what is being installed, and call a script that sets the settings for that same driver to be accurate. Congratulations, you have made the computer self-aware. 
+ 
+ ##### Its not thinking, its recursion!
 
 ### 🔧 What is a USHELL?
 
