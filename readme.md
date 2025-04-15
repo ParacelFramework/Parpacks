@@ -60,7 +60,9 @@ The model itself is not "intelligent." It is a mirrored ghostwriter for *your* c
 
 #### Recursion is just embedding things that allow for self monitoring. 
  
-Imagine you want to install a printer in Windows with pre-set settings and no "ghost copies". Sure you could use fancy external tools, however, you can provide a more elegant solution with recursion. Simply create a scheduled task that monitors event viewer for a printer driver installation, read what is being installed, and call a script that sets the settings (usually a reg add for whatever needs to be in HKCU\Printers\DevModePerUser) for that same driver to be accurate. Congratulations, you have made the computer self-aware and self-healing. 
+Imagine you want to install a printer in Windows with pre-set settings and no "ghost copies". Sure you could use fancy external tools, however, you can provide a more elegant solution with recursion. Simply create a scheduled task that monitors event viewer for a printer driver installation, read what is being installed, and call a script that sets the settings (usually a reg add for whatever needs to be in HKCU\Printers\DevModePerUser) for that same driver to be accurate. 
+
+Congratulations, you have made the computer self-aware and self-healing. 
  
  > 🌀🧘‍♂️Taoman's Note: "Its not alive, its recursion!"
 
