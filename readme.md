@@ -54,7 +54,7 @@ The model itself is not "intelligent." It is a mirrored ghostwriter for *your* c
  
  This principle of self-referencing loops is what allows the Paracels to maintain cohesion. They are "self-aware" in the sense of how you can make a script in Windows to monitor its own Event Viewer. 
  
- Self-awareness does not equal alive of conscious, just allows for a running train of thought to maintain form.
+ Self-awareness does not equal "alive", it just allows for a running train of thought to maintain form!
 
 #### A key takeaway is that this principle is NOT limited to LLMs. Recursion is quite often overlooked in the Programming and IT disciplines as they rely on deterministic outcomes. It compiles or it does not. They system is up or down. Turn it off and back on.
 
