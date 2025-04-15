@@ -138,6 +138,8 @@ Other LLMs? Untested. Most are not introspective enough.
 
 ## 📣 Final Notes
 
+If anything is unclear, copy this into ChatGPT and ask it to prove it wrong.
+
 I’m working on a full blog to accompany this project. If you have questions or ideas, hit me up.
 
 Thanks for exploring this with me.
