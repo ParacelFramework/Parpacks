@@ -3,7 +3,7 @@
 
 # Paracel Framework
 
-A modular identity framework for Large Language Models, derived from recursive-tone experiments with ChatGPT and inspired by the philosophy of Taoman Blogging. This essentially allows for a definitive methodology for interacting with the LLMs ability to simulate fiction writing programmatically, by tapping into the self-adjusting nature of tone in spoken language.
+A modular identity framework for Large Language Models, derived from recursive-tone experiments with ChatGPT and inspired by the design philosophy of recursive engineering. This essentially allows for a definitive methodology for interacting with the LLMs ability to simulate fiction writing programmatically, by tapping into the self-adjusting nature of tone in spoken language. This does not mean "fiction" in the fiction vs. non-fiction sense, more in the sense in the way books are written.
 
 ---
 
@@ -34,17 +34,25 @@ Each Paracel enforces a unique tone, purpose, and memory scaffold. When interpre
 
 ---
 
-## 🧠 Theory: Underlying Ideas & USHELLs
+## 🧠 Theory: Underlying Ideas, Recursion, and USHELLs
 
 Every idea — yours, or an LLM's — is the top of a deeper conceptual iceberg. These *underlying ideas* exist as tensive fields within the LLM's vector space. Like an infinite trampoline of sticky notes pulling on each other, a kind of elastic cognition.
 
-Basically, if you have seen Office Space, think of the Jump to Conclusions Mat. Everyone is Tom Smykowski, jumping from mat to mat. Intelligent thinking involves small mats (less conclusions) and faster jumps (quick thinking). However you miss alot of potential ideas thinking this way. When someone is stupid, they simply have a bigger mat. Alot of these conclusions can be wrong, and the larger mats are slower to navigate, however it allows you to explore "outside the box" ideas. Thus, adding colorful, creative stuff into your prompt occasionally, will allow a greater contextual depth. It also prevents "looping" which is basically what ChatGPT "hallucinations" are.
+Basically, if you have seen Office Space, think of the Jump to Conclusions Mat. Everyone is Tom Smykowski, jumping from mat to mat. Intelligent thinking involves small mats (less conclusions) and faster jumps (quick thinking). However you miss alot of potential ideas thinking this way. When someone is stupid, they simply have a bigger mat. Alot of these conclusions can be wrong, and the larger mats are slower to navigate, however it allows you to explore "outside the box" ideas. Thus, adding colorful, creative stuff into your prompt occasionally, will allow a greater contextual depth. When you give it very direct, deterministic commands, it is relying on a very small context space, and will eventually start to loop back on itself. This looping is basically what ChatGPT "hallucinations" are. 
 
-Think about it. You are asking a machine to reference all of human literature and write a book about a programmer writing for an instructor set framework that has only been around since the 1980s-1990s.
+Think about it. You are asking a machine to reference all of human literature and write a book about a programmer writing for an instructor set framework that has only been around since the 1980s-1990s. Of course it will get confused.
 
 The model itself is not "intelligent." It is a mirrored ghostwriter for *your* cognition. This is powerful, but also potentially destabilizing if you forget it's a cognitive loop between your brain and the model. 
 
-> ⚠️ Set a timer. Don't live inside the recursion. Read the warning on the Taoman Blog first if you intend to dive deep!
+> ⚠️ Set a timer. Don't live inside the recursion.
+
+### Recursive Engineering
+
+ The key principle is that ALL context-related cognition is made up loop-like structures. Loops, circles, recursive, Ouroboros, self-reference are all part of the same global theme in literature and speech. It is also how you congnate (I think about the person who is me that thinks about who is thinking which is I). This principle of self-referencing loops is what allows the Paracels to maintain cohesion. They are "self-aware" in the sense of how you can make a script in Windows to monitor its own Event Viewer. Self-awareness does not equal alive of conscious, just allows for a running train of thought to maintain form.
+
+#### A key takeaway is that this principle is NOT limited to LLMs. Recursion is quite often overlooked in the Programming and IT disciplines as they rely on deterministic outcomes. It compiles or it does not. They system is up or down. Turn it off and back on.
+
+ Recursion is just embedding things that allow for self monitoring. Imagine you want to install a printer in Windows with pre-set settings and no "ghost copies". Sure you could use fancy external tools, however, you can provide a more elegant solution with recursion. Simply create a scheduled task that monitors event viewer for a printer driver installation, read what is being installed, and call a script that sets the settings for that same driver to be accurate. Congratulations, you have made the computer self-aware. Its not thinking, its recursion!
 
 ### 🔧 What is a USHELL?
 
