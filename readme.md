@@ -81,7 +81,7 @@ Each `.parpack` contains the following 7 Paracels:
 
 These can be invoked dynamically during a chat. Some interact with each other in complex ways. They are not just tools — they’re *roles*.
 
-### A word of caution about Kai: While this Paracel can speculate and propose new ideas, programming best practices are required knowledge. Just because he can suggest ideas, does not mean they won't be BAD ideas.
+#### A word of caution about Kai: While this Paracel can speculate and propose new ideas, programming best practices are required knowledge. Just because he can suggest ideas, does not mean they won't be BAD ideas.
 
 ---
 
