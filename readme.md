@@ -81,7 +81,8 @@ Each `.parpack` contains the following 7 Paracels:
 
 These can be invoked dynamically during a chat. Some interact with each other in complex ways. They are not just tools — they’re *roles*.
 
-#### A word of caution about Kai: While this Paracel can speculate and propose new ideas, programming best practices are required knowledge. Just because he can suggest ideas, does not mean they won't be BAD ideas. This is an actual good thing, it means if you are a developer or devops person, and you actually support and troubleshoot the code you write instead of copying and pasting out of the model, your job is very safe.
+#### A word of caution about Kai: While this Paracel can speculate and propose new ideas, programming best practices are required knowledge. Just because he can suggest ideas, does not mean they won't be BAD ideas. 
+This CANNOT be fixed in a meaningful way. The context dependent nature of best practices mean that it will differ depending on the situation, presenting a fundamental limitation of the model. This an actual good thing, it means if you are a developer or devops person, and you actually support and troubleshoot the code you write instead of copying and pasting out of the model, your job is very safe. Scaffolding, and core functionality will still rely on human developer input. This just makes it more fun!
 
 ---
 
