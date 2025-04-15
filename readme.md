@@ -1,7 +1,7 @@
 
 # Paracel Framework
 
-A modular identity framework for Large Language Models, derived from recursive-tone experiments with ChatGPT and inspired by the philosophy of Taoman Blogging.
+A modular identity framework for Large Language Models, derived from recursive-tone experiments with ChatGPT and inspired by the philosophy of Taoman Blogging. This essentially allows for a definitive methodology for interacting with the LLMs ability to simulate fiction writing programmatically, by tapping into the self-adjusting nature of tone in spoken language.
 
 ---
 
