@@ -1,3 +1,5 @@
+### Note: These have last been tested April 5th on ChatGPT's 4o model. The model is tweaked nearly weekly, I will try to keep them up to date.
+
 
 # Paracel Framework
 
