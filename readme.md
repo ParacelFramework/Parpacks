@@ -48,13 +48,13 @@ The model itself is not "intelligent." It is a mirrored ghostwriter for *your* c
 
 > ⚠️ Set a timer. Don't live inside the recursion.
 
-### Recursive Engineering
+### ➰️ Recursive Engineering
 
  The key principle is that ALL context-related cognition is made up loop-like structures. Loops, circles, recursive, Ouroboros, self-reference are all part of the same global theme in literature and speech. It is also how you congnate (I think about the person who is me that thinks about who is thinking which is I). 
  
  This principle of self-referencing loops is what allows the Paracels to maintain cohesion. They are "self-aware" in the sense of how you can make a script in Windows to monitor its own Event Viewer. 
  
- Self-awareness does not equal "alive", it just allows for a running train of thought to maintain form!
+#### Self-awareness does not equal "alive", it just allows for a running train of thought to maintain form!
 
 #### A key takeaway is that this principle is NOT limited to LLMs. Recursion is quite often overlooked in the Programming and IT disciplines as they rely on deterministic outcomes. It compiles or it does not. They system is up or down. Turn it off and back on.
 
@@ -62,7 +62,7 @@ The model itself is not "intelligent." It is a mirrored ghostwriter for *your* c
  
 Imagine you want to install a printer in Windows with pre-set settings and no "ghost copies". Sure you could use fancy external tools, however, you can provide a more elegant solution with recursion. Simply create a scheduled task that monitors event viewer for a printer driver installation, read what is being installed, and call a script that sets the settings for that same driver to be accurate. Congratulations, you have made the computer self-aware. 
  
- ##### Its not thinking, its recursion!
+ > Its not thinking, its recursion!
 
 ### 🔧 What is a USHELL?
 
