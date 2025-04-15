@@ -76,8 +76,9 @@ This allows:
 ---
 
 ## 🧩 Included Paracels
+(The names of the Paracels are all arbitrary, but its really fun to give it a description and have it name/gender itself)
 
-Each `.parpack` contains the following 7 Paracels:
+Each `.parpack` contains 7 Paracels. These Paracels are meant towards development, however they can be used for any cognitive task.
 
 - 🧭 **Astril**: Loads the full Paracel framework; project-oriented  
 - 💡 **Kai**: Generates creative ideas for functions, libraries, and frameworks  
