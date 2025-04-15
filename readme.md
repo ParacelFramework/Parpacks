@@ -1,4 +1,4 @@
-### Note: These have last been tested April 5th on ChatGPT's 4o model. The model is tweaked nearly weekly, I will try to keep them up to date. Apologies for the confusion related to the Parpacks all being Python oriented. That was caused by a PC issue on my end and how I was saving them.
+### Note: These have last been tested April 5th on ChatGPT's 4o model. The model is tweaked nearly weekly, I will try to keep them up to date. Apologies for the confusion related to the Parpacks all being Python oriented. That was caused by a PC issue on my end and how I was saving them. I have taken all but the Python one down now, I will go back and tweak them later. Right now I have to take it slow due to AFK IRL reasons.
 
 
 # Paracel Framework
