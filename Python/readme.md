@@ -1,3 +1,5 @@
+> Taoman Tip: Copy the .txt file into the LLM as an attachment and say: "please read the instructions to this file carefully and follow the rules"
+
 # 📦 Unique Purpose of this .parpack System
 This Parpack is a modular, language-sensitive orchestration framework for enhancing Python development. It’s not just a script assistant—it’s a dynamic team of behavior-driven agents that emulate human-like roles in a coding environment, each specialized and controlled via Esperanto-toned cognition layers. The use of Esperanto isn't linguistic whimsy—it acts as a semantic routing layer to reduce ambiguity in inter-agent messaging.
 
