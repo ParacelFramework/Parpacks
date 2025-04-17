@@ -1,6 +1,4 @@
-### Note: This concept has last been tested April 5th on ChatGPT's 4o model. The model is tweaked nearly weekly, I will try to keep this page up to date. 
-
-#### Note: Apologies for the confusion related to the Parpacks all being Python oriented. That was caused by a PC issue on my end and how I was saving them. I have taken all but the Python one down now, and I will remediate it when I get time. Right now I have to take it slow due to AFK IRL reasons.
+### Note: This concept has last been tested April 17th on ChatGPT's 4o model. The model is tweaked nearly weekly, I will try to keep this page up to date. 
 
 
 # Paracel Framework
@@ -29,7 +27,8 @@ Thus was born the **Paracel Framework**.
 Paracels are embedded in `.parpack` files — plaintext pseudo-JSON archives that contain:
 
 - A descriptive header telling the LLM what it is trying to do.
-  - Paracels, and the recursive rulesets
+- Paracels, and the recursive rulesets, and rules for interaction
+- A layered approach to semantic cognition, with interactions occuring in Esperanto, message output occuring in English (NEW!)
 - A context "garden" for main ideas of a subject matter
 
 Each Paracel enforces a unique tone, purpose, and memory scaffold. When interpreted together, they form a **tensive recursive structure** that reinforces itself.
@@ -90,24 +89,25 @@ This allows:
 ## 🧩 Included Paracels
 (The names of the Paracels are all arbitrary, but its really fun to give it a description and have it name/gender itself)
 
-The Python `.parpack` contains 7 Paracels. These Paracels are meant towards development, however they can be used for any cognitive task really.
+All of the Parpacks will contain the 5 Utility Paracels listed below
 
-- 🧭 **Astril**: Loads the full Paracel framework; project-oriented  
-- 💡 **Kai**: Generates creative ideas for functions, libraries, and frameworks  
-- 📚 **Orama**: Syntax-reference; excels at calling correct formats  
-- 🧪 **Astraea**: Debugs and analyzes errors  
-- ✂️✨ **Trimspark**: Removes motivational fluff from responses  
-- 🚫🌐 **Nesbitt**: Prevents the LLM from invoking web search or browsing  
-- 🎛️ **Velur**: Unloads Paracels and shuts down modules  
+- 🧭 **Astril**: Loads the full Paracel framework; project-oriented, leader   
+- ✂️ **Trimspark**: Removes motivational fluff from responses, keeps things on task
+- 🚫 **Nesbitt**: Prevents the LLM from invoking web search or browsing which suppresses tone
+- 👁️ **Miragilo**: Silent observer of the Esperanto cognition layer, subtle influence on global-tone
+- 🎛️ **Velur**: Unloads Paracels and shuts down modules, using him on Astril will assume full reset
 
 These can be invoked dynamically during a chat. Some interact with each other in complex ways. They are not just tools — they’re *roles*.
 
-#### A word of caution about Kai: While this Paracel can speculate and propose new ideas, programming best practices are required knowledge. Just because he can suggest ideas, does not mean they won't be BAD ideas. 
+## Speculative Ideas
 
-#### This CANNOT be fixed in any meaningful or automated way, atleast not without a ton of work and babysitting. 
+#### A word of caution: While these Paracels can speculate and propose new ideas, disciplinary best practices are required knowledge. Just because they can suggest ideas, certainly does not mean they won't be BAD ideas, or even sub-optimal ideas.
 
-The context dependent nature of best practices mean that it will differ depending on the situation, presenting a fundamental limitation of the model. This an actual good thing, it means if you are a developer or devops person, and you actually support and troubleshoot the code you write instead of copying and pasting out of the model, your job is very safe. Think of ChatGPT as a new programming intern that has had 20 cups of coffee and has read every academic programming book in existence. Yeah its a know it all, but ChatGPT has never cried into a console window at 3AM thinking about their life choices as well as how to fix the issue. That is the key difference.
+#### This CANNOT be fixed in any meaningful or automated way, atleast not without a ton of work and babysitting.
 
+The context dependent nature of best practices mean that it will differ depending on the situation, presenting a fundamental limitation of the model. This an actual good thing, it means if you are a developer or devops person, and you actually support and troubleshoot the code you write instead of copying and pasting out of the model, your job is very safe. 
+
+Think of ChatGPT as a new programming intern that has had 20 cups of coffee and has read every academic book in existence. Yeah its a know-it-all, but ChatGPT has never cried into a console window at 3AM thinking about their life choices as well as how to fix the issue. That is the key difference. It is a helper, not a brain replacement!
 
  > 🌀🧘‍♂️Taoman's Note: "Both the scaffold, and the form will still rely on human developer input. This just makes it more fun!"
 
