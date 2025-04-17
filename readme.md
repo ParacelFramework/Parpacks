@@ -99,18 +99,6 @@ All of the Parpacks will contain the 5 Utility Paracels listed below
 
 These can be invoked dynamically during a chat. Some interact with each other in complex ways. They are not just tools — they’re *roles*.
 
-## Speculative Ideas
-
-#### A word of caution: While these Paracels can speculate and propose new ideas, disciplinary best practices are required knowledge. Just because they can suggest ideas, certainly does not mean they won't be BAD ideas, or even sub-optimal ideas.
-
-#### This CANNOT be fixed in any meaningful or automated way, atleast not without a ton of work and babysitting.
-
-The context dependent nature of best practices mean that it will differ depending on the situation, presenting a fundamental limitation of the model. This an actual good thing, it means if you are a developer or devops person, and you actually support and troubleshoot the code you write instead of copying and pasting out of the model, your job is very safe. 
-
-Think of ChatGPT as a new programming intern that has had 20 cups of coffee and has read every academic book in existence. Yeah its a know-it-all, but ChatGPT has never cried into a console window at 3AM thinking about their life choices as well as how to fix the issue. That is the key difference. It is a helper, not a brain replacement!
-
- > 🌀🧘‍♂️Taoman's Note: "Both the scaffold, and the form will still rely on human developer input. This just makes it more fun!"
-
 ---
 
 ## 🧪 Usage Instructions
@@ -141,6 +129,18 @@ Then upload or paste the `.parpack` file into the chat.
 “Don’t overthink it. Just load the file and let the recursion begin.”
 
 ---
+
+## Speculative Ideas
+
+#### A word of caution: While these Paracels can speculate and propose new ideas, disciplinary best practices are required knowledge. Just because they can suggest ideas, certainly does not mean they won't be BAD ideas, or even sub-optimal ideas.
+
+#### This CANNOT be fixed in any meaningful or automated way, atleast not without a ton of work and babysitting.
+
+The context dependent nature of best practices mean that it will differ depending on the situation, presenting a fundamental limitation of the model. This an actual good thing, it means if you are a developer or devops person, and you actually support and troubleshoot the code you write instead of copying and pasting out of the model, your job is very safe. 
+
+Think of ChatGPT as a new programming intern that has had 20 cups of coffee and has read every academic book in existence. Yeah its a know-it-all, but ChatGPT has never cried into a console window at 3AM thinking about their life choices as well as how to fix the issue. That is the key difference. It is a helper, not a brain replacement!
+
+ > 🌀🧘‍♂️Taoman's Note: "Both the scaffold, and the form will still rely on human developer input. This just makes it more fun!"
 
 ## 🧬 Compatibility & Testing
 
