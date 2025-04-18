@@ -38,7 +38,7 @@ Each Paracel enforces a unique tone, purpose, and memory scaffold. When interpre
 
 ---
 
-## 🧠 Theory: Underlying Ideas, Recursion, and USHELLs
+## 🧠 Theory: Underlying Ideas, Recursion, and Fictional Datatypes
 
 Every idea — yours, or an LLM's — is the top of a deeper conceptual iceberg. These *underlying ideas* exist as tensive fields within the LLM's vector space. Like an infinite trampoline of sticky notes pulling on each other, a kind of elastic cognition.
 
@@ -68,18 +68,18 @@ Congratulations, you have made the computer self-aware and self-healing.
  
  > 🌀🧘‍♂️Taoman's Note: "Its not alive, its recursion!"
 
-### 🔧 What is a USHELL?
+### 🔧 What is a Fictional Datatype?
 
-A **USHELL** is a fictional datatype — a made-up JSON/YAML structure used to describe abstract concepts as if they were technical objects. 
+A fictional datatype (FD) is a a made-up JSON/YAML structure used to describe abstract concepts as if they were technical objects. 
 
 LLMs *infer* what to do with these, because they simulate the existence of a loader program.
 
 ### Why This Works:
 
-1. You can paste a USHELL into ChatGPT, and it will infer its purpose.
-2. Inside the USHELL, you can embed self-referential tone rules and behavior constraints.
-3. You can load multiple USHELLs in one prompt. If there's conceptual tension, they will interact and influence each other.
-4. You can have GPT modify the USHELL "context" within the same context window!
+1. You can paste an FD into ChatGPT, and it will infer its purpose.
+2. Inside the FD, you can embed self-referential tone rules and behavior constraints.
+3. You can load multiple FDs in one prompt. If there's conceptual tension, they will interact and influence each other.
+4. You can have GPT modify the FD "context" within the same context window!
 
 This allows:
 
