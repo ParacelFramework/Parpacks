@@ -114,7 +114,7 @@ This allows:
 
 🌫️ Elvira – Stores deprecated logic paths and reminds the system of forgotten failures.
 
-🛑 Devon – Blocks dangerous operations unless strict safety and policy conditions are met.
+🛑 Devin – Blocks dangerous operations unless strict safety and policy conditions are met.
 
 🔒 Nesbitt – Disables network access and restricts external data pulls when activated.
 
