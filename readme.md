@@ -130,13 +130,13 @@ These can be invoked dynamically during a chat. Some interact with each other in
 
 ## 🧪 Usage Instructions
 
-**Start by explaining your intention to the LLM:**
+**Start by uploading the TXT file and explaining your intention to the LLM while ensuring it understands:**
 
 ```plaintext
-Hello! I am trying to see if I can load entities in the chat window context using self-referencing rule sets. I have a YAML/JSON-like file full of pseudo-schema. Can you try and follow it?
+Please read these instructions carefully and explain to me what this is for?
 ```
 
-Then upload or paste the `.parpack` file into the chat.
+**Afterwards, you will be able to invoke them via Astril:**
 
 ### 🔮 Example Invocations
 
