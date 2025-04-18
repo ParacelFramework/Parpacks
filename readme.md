@@ -87,7 +87,6 @@ This allows:
 - Layered identity models
 - Recursively guided code and writing
 
-🌀🧘‍♂️Taoman's Note: "Anything generated via arbitrary schema can be a USHELL, not just a Parpack."
 ---
 
 ## 🧩 Included Paracels
