@@ -1,3 +1,6 @@
+# Release v1.0 Notes:
+I have decided to consolidate all Paracels into a single project related Parpack. The versatility will come from individual "context gardens" that will exist in a separate file.
+
 ### Note: This concept has last been tested April 17th on ChatGPT's 4o model. The model is tweaked nearly weekly, I will try to keep this page up to date. 
 
 
@@ -43,7 +46,7 @@ Basically, if you have seen Office Space, think of the Jump to Conclusions Mat. 
 
 Think about it. You are asking a machine to reference all of human literature and write a book about a programmer writing for an instructor set framework that has only been around since the 1980s-1990s. Of course it will get confused.
 
-The model itself is not "intelligent." It is a mirrored ghostwriter for *your* cognition. This is powerful, but also potentially destabilizing if you forget it's a cognitive loop between your brain and the model. 
+The model itself is not "intelligent." It is a mirrored ghostwriter for *your* cognition. This is powerful, but also potentially destabilizing if you forget it's a cognitive loop between your brain and the model. The power comes from understanding how your own brain builds on its internal language using context clues.
 
 > ⚠️ Set a timer. Don't live inside the recursion.
 
@@ -89,13 +92,37 @@ This allows:
 ## 🧩 Included Paracels
 (The names of the Paracels are all arbitrary, but its really fun to give it a description and have it name/gender itself)
 
-All of the Parpacks will contain the 5 Utility Paracels listed below
+##### The Release build will contain these 15 Paracels
 
-- 🧭 **Astril**: Loads the full Paracel framework; project-oriented, leader   
-- ✂️ **Trimspark**: Removes motivational fluff from responses, keeps things on task
-- 🚫 **Nesbitt**: Prevents the LLM from invoking web search or browsing which suppresses tone
-- 👁️ **Miragilo**: Silent observer of the Esperanto cognition layer, subtle influence on global-tone
-- 🎛️ **Velur**: Unloads Paracels and shuts down modules, using him on Astril will assume full reset
+🧭 Astril – Coordinator of all Paracels, ensures harmony and coherent diagnostics across the cognitive system.
+
+🗺️ Traiger – Maps schemas and namespaces, flags broken links and undefined structures.
+
+🩺 Caldwell – Translates raw event codes and logs into human-readable diagnostic insights.
+
+🧬 Yanson – Repairs corrupted data structures and schema layers when stability is at risk.
+
+🗃️ Quincy – Archives past diagnostic states and compares current conditions with historical patterns.
+
+🔍 Soldat – Watches for logical contradictions, loops, and tonal inconsistencies between agents.
+
+🔥 Kai – Generates offbeat, uncomfortable hypotheses for strange or poorly defined issues.
+
+🌒 Theos – Forecasts likely outcomes of uncertain or unresolved technical situations.
+
+🖋️ Bern – Uses metaphor and symbolic language to make complex errors emotionally intuitive.
+
+🌫️ Elvira – Stores deprecated logic paths and reminds the system of forgotten failures.
+
+🛑 Devon – Blocks dangerous operations unless strict safety and policy conditions are met.
+
+🔒 Nesbitt – Disables network access and restricts external data pulls when activated.
+
+🧷 Velur – Powers on/off individual Paracels or the whole system on command.
+
+✂️ Trimspark – Scrubs filler, fluff, and emotionally excessive language from all responses.
+
+👁️ Miragilo – Silent observer that subtly nudges the system’s reasoning when imbalanced.
 
 These can be invoked dynamically during a chat. Some interact with each other in complex ways. They are not just tools — they’re *roles*.
 
