@@ -1,12 +1,8 @@
-# Release v1.0 Notes:
-I have decided to consolidate all Paracels into a single project related Parpack. The versatility will come from individual "context gardens" that will exist in a separate file.
-
-### Note: This concept has last been tested April 17th on ChatGPT's 4o model. The model is tweaked nearly weekly, I will try to keep this page up to date. 
-
-
 # Paracel Framework
 
 A modular identity framework for Large Language Models, derived from recursive-tone experiments with ChatGPT and inspired by the design philosophy of recursive engineering. This essentially allows for a definitive methodology for interacting with the LLMs ability to simulate fiction writing programmatically, by tapping into the self-adjusting nature of tone in spoken language. This does not mean "fiction" in the fiction vs. non-fiction sense, more in the sense in the way books are written.
+
+What differentiates this from existing frameworks and AI features is that this is a quick way to drop (or invite) "story-driven" programmatic entites into the context space of Projects and Individual Chats. Though prompt engineering and API scaffolding can look similar, the magic behind this methodology is the way to direct the coversational attention span of the AI in multiple directions for better results, and easier usage.
 
 ---
 
@@ -142,7 +138,7 @@ Please read these instructions carefully and explain to me what this is for?
 
 ```plaintext
 "Astril, let's get started"
-"Astril, have Orama and Astraea debug"
+"Astril, have Yanson debug"
 "Astril, see if Kai has any ideas about X"
 
 "Velur, unload Astril"
